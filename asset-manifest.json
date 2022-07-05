@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WebPortfolio/static/css/main.cc32a884.css",
+    "main.js": "/WebPortfolio/static/js/main.aa33aac3.js",
+    "static/js/232.10aa1d1f.chunk.js": "/WebPortfolio/static/js/232.10aa1d1f.chunk.js",
+    "static/media/netflixWeb.jpg": "/WebPortfolio/static/media/netflixWeb.6b81411acd85ba0043bb.jpg",
+    "static/media/adviceApp.jpg": "/WebPortfolio/static/media/adviceApp.ca2edb0533694ce76e49.jpg",
+    "static/media/cupid.jpg": "/WebPortfolio/static/media/cupid.ad97871e937e4b1de09f.jpg",
+    "static/media/flashcard.png": "/WebPortfolio/static/media/flashcard.9b095bdfc2c8d2101212.png",
+    "static/media/decoder.jpg": "/WebPortfolio/static/media/decoder.75bb273560b5f1fd4ed7.jpg",
+    "static/media/israel.pdf": "/WebPortfolio/static/media/israel.67e142c037c1aa19ac84.pdf",
+    "static/media/library.png": "/WebPortfolio/static/media/library.47ace939689a05a6a3ae.png",
+    "static/media/laptop.jpeg": "/WebPortfolio/static/media/laptop.ff9a0ed8498b07dc95fe.jpeg",
+    "index.html": "/WebPortfolio/index.html",
+    "main.cc32a884.css.map": "/WebPortfolio/static/css/main.cc32a884.css.map",
+    "main.aa33aac3.js.map": "/WebPortfolio/static/js/main.aa33aac3.js.map",
+    "232.10aa1d1f.chunk.js.map": "/WebPortfolio/static/js/232.10aa1d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc32a884.css",
+    "static/js/main.aa33aac3.js"
+  ]
+}
