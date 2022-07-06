@@ -97,11 +97,11 @@ const App = () => {
       <section className="w-full grid grid-cols-1 md:grid-cols-2 gap-4 my-24"
             id="about">
               {/**image box */}
-              <div className='w-full max-h-[420px] flex items-center justify-center'>
-                <div className='w-[100%] max-h-[100%] bg-gray-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border border-gray-500'> 
+              <div className='w-full h-420 flex items-center justify-center'>
+                <div className='w-275 h-340 relative bg-gray-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border border-gray-500'> 
                   <img 
                   src={laptop} 
-                  className="w-[100%] max-h-[100%] absolute md:w-275  -right-4 top-4 object-cover rounded-md drop-shadow-2xl"
+                  className="w-full h-full absolute -right-4 top-4 object-cover rounded-lg drop-shadow-2xl"
                   />
                 </div>
               </div>
