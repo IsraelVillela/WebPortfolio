@@ -101,7 +101,7 @@ const App = () => {
                 <div className='w-275 h-340 relative bg-gray-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border border-gray-500'> 
                   <img 
                   src={laptop} 
-                  className="w-full min-h-340 max-h-340 absolute -right-4 top-4 object-cover rounded-lg drop-shadow-2xl"
+                  className="w-full h-340 absolute -right-4 top-4 object-cover rounded-lg drop-shadow-2xl"
                   />
                 </div>
               </div>
