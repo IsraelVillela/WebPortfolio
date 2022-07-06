@@ -98,7 +98,7 @@ const App = () => {
             id="about">
               {/**image box */}
               <div className='w-full max-h-[420px] flex items-center justify-center'>
-                <div className='h-340 w-275 bg-gray-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border border-gray-500'> 
+                <div className='w-[100%] max-h-[100%] bg-gray-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border border-gray-500'> 
                   <img 
                   src={laptop} 
                   className="w-[100%] max-h-[100%] absolute md:w-275  -right-4 top-4 object-cover rounded-md drop-shadow-2xl"
