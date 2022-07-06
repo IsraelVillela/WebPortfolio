@@ -120,7 +120,7 @@ development of visually pleasing and user-friendly website designs.
 
                 </p>
                 <a href={resume} download class="w-full md:w-auto relative mt-6 inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group  hover:text-white focus:ring-2 focus:ring-red-100 hover:shadow-lg hover:shadow-red-100 hover:dark:shadow-lg hover:dark:shadow-red-100">
-                <span class="w-full md:w-auto relative px-5 py-2.5 transition-all ease-in duration-75 bg-gradient-to-b from-[#EDC7B7] to-gray-100 rounded-md ">
+                <span class="w-full md:w-auto relative px-5 py-2.5 transition-all ease-in duration-75 bg-gradient-to-b from-[#EDC7B7] to-gray-100 rounded-md text-center ">
                   Download Resume
                 </span>                  
                   </a>
