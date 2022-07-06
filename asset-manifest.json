@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WebPortfolio/static/css/main.cc32a884.css",
-    "main.js": "/WebPortfolio/static/js/main.d196d6f0.js",
+    "main.css": "/WebPortfolio/static/css/main.1df33116.css",
+    "main.js": "/WebPortfolio/static/js/main.c0885cf3.js",
     "static/js/232.10aa1d1f.chunk.js": "/WebPortfolio/static/js/232.10aa1d1f.chunk.js",
     "static/media/netflixWeb.jpg": "/WebPortfolio/static/media/netflixWeb.6b81411acd85ba0043bb.jpg",
     "static/media/adviceApp.jpg": "/WebPortfolio/static/media/adviceApp.ca2edb0533694ce76e49.jpg",
@@ -10,12 +10,12 @@
     "static/media/israel.pdf": "/WebPortfolio/static/media/israel.769d2a6a4d57e69e6b8e.pdf",
     "static/media/laptop.jpeg": "/WebPortfolio/static/media/laptop.ff9a0ed8498b07dc95fe.jpeg",
     "index.html": "/WebPortfolio/index.html",
-    "main.cc32a884.css.map": "/WebPortfolio/static/css/main.cc32a884.css.map",
-    "main.d196d6f0.js.map": "/WebPortfolio/static/js/main.d196d6f0.js.map",
+    "main.1df33116.css.map": "/WebPortfolio/static/css/main.1df33116.css.map",
+    "main.c0885cf3.js.map": "/WebPortfolio/static/js/main.c0885cf3.js.map",
     "232.10aa1d1f.chunk.js.map": "/WebPortfolio/static/js/232.10aa1d1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc32a884.css",
-    "static/js/main.d196d6f0.js"
+    "static/css/main.1df33116.css",
+    "static/js/main.c0885cf3.js"
   ]
 }
