@@ -6,16 +6,12 @@ import laptop from './images/laptop.jpeg'
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import {Experience} from './data'
-import { GoDash } from 'react-icons/go';
 import Tilt from 'react-parallax-tilt'
 import netflix from './images/netflixWeb.jpg';
 import advice from './images/adviceApp.jpg';
 import flashcard from './images/flashcard.png';
-import library from './images/library.png';
 import decoder from './images/decoder.jpg';
-import cupid from './images/cupid.jpg'
 import resume from './israel.pdf'
-
 const App = () => {
 
   const [isActive, setIsActive]= useState(false)
