@@ -102,7 +102,7 @@ const App = () => {
                   
                   <img 
                   src={laptop} 
-                  className="w-full h-full absolute -right-4 top-4 object-cover rounded-md drop-shadow-2xl"
+                  className="w-[100%] h-[100%] absolute -right-4 top-4 object-cover rounded-md drop-shadow-2xl"
                   />
                 </div>
               </div>
